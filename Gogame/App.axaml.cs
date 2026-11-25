@@ -34,7 +34,7 @@ public partial class App : Application
     public override void OnFrameworkInitializationCompleted()
     {
 
-        var baseUri = new Uri("https://goweb-api-3uws.onrender.com");
+        var baseUri = new Uri("https://localhost:7109");
         var cookies = new CookieContainer();
         var storage = new CookieStorage();
         storage.Load(cookies, baseUri); // restore saved cookies
