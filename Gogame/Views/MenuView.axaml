@@ -153,7 +153,7 @@
       </Viewbox>
         <StackPanel Grid.Row="0" HorizontalAlignment="Center" Margin="0,120,0,0">
             <Border Classes="title-wrap">
-                <TextBlock Text="囲碁"
+                <TextBlock Text="思兼"
                            FontSize="38" FontFamily="{StaticResource MaShanZhengFont}"
                            Foreground="{StaticResource MutedBrush}"
                            HorizontalAlignment="Center" Margin="0,0,0,6">
@@ -163,7 +163,7 @@
                  </TextBlock>
             </Border>
             <Border Classes="title-wrap">
-                <TextBlock Text="GO"
+                <TextBlock Text="Omoikane"
                  FontSize="140" FontFamily="{StaticResource OutfitFont}" FontWeight="Light"
                  Foreground="{StaticResource TextBrush}"
                  HorizontalAlignment="Center"/>
