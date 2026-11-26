@@ -37,7 +37,7 @@ The application is currently in **Alpha version (v0.45)**.
 You are welcome to modify, fork, or optimize this code. Please keep the following in mind:
 * **All modifications and execution of the code are at your own risk.**
 * Due to early-stage bugs, it is recommended to **thoroughly inspect and test** the code before deployment or further development.
-* **Backend / REST API requirement:** Profile management and related data features require a connection to a REST API. You will need to host and configure your own backend instance (locally or on your own server) for these features to work. If you are interested in contributing or testing against a shared development endpoint, feel free to reach out to me directly—access may be granted on a case-by-case basis.
+* **Backend / REST API requirement:** Profile management and related data features require a connection to a REST API. You will need to host and configure your own backend instance (locally or on your own server) for these features to work. If you are interested in contributing or testing against a shared development endpoint, feel free to reach out to me directly–access may be granted on a case-by-case basis.
 
 
 ---
